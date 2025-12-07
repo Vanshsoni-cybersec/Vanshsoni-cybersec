@@ -11,6 +11,8 @@
 ```
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=120&section=header&text=VANSH%20SONI&fontSize=40&fontColor=d1d5db&animation=fadeIn&fontAlignY=38&desc=Penetration%20Tester%20|%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
   
 ```diff
 @@                   [ SYSTEM COMPROMISED ]                      @@
@@ -23,11 +25,31 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vanshsoni-cybersec&color=blue&style=for-the-badge)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&random=false&width=600&lines=Penetration+Tester+%7C+Security+Researcher;Breaking+Systems%2C+Building+Defenses;PortSwigger+Labs+%7C+TryHackMe+%7C+CTFs;Python+%7C+Reverse+Engineering+%7C+Web+Hacking" alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **Tech Stack & Tools** ⚡
+
+<img src="https://skillicons.dev/icons?i=python,bash,js,linux,git,github,vscode,docker&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+
 </div>
 
 ---
 
 ### 🎯 `$ whoami`
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 ```bash
 vansh@kali:~$ cat profile.txt
@@ -39,6 +61,8 @@ vansh@kali:~$ cat profile.txt
 │ > Building security tools with Python                    │
 └──────────────────────────────────────────────────────────┘
 ```
+
+<br clear="right"/>
 
 > *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."* - Gene Spafford
 
@@ -77,6 +101,10 @@ class CyberSecArsenal:
 
 ### 🚨 `$ ls -la ./projects/`
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
 ```bash
 drwxr-xr-x  5 vansh vansh 4096 Dec  7 2025 .
 -rw-r--r--  1 vansh vansh  892 Dec  7 2025 cve-discord-n8n/
@@ -102,11 +130,11 @@ drwxr-xr-x  5 vansh vansh 4096 Dec  7 2025 .
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanshsoni-cybersec&show_icons=true&theme=cobalt&hide_border=true&bg_color=1e3a8a&title_color=60a5fa&icon_color=3b82f6&text_color=d1d5db)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vanshsoni-cybersec&show_icons=true&theme=cobalt&hide_border=true&bg_color=1e3a8a&title_color=60a5fa&icon_color=3b82f6&text_color=d1d5db&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshsoni-cybersec&theme=cobalt&hide_border=true&background=1e3a8a&stroke=3b82f6&ring=60a5fa&fire=3b82f6&currStreakLabel=d1d5db&sideLabels=d1d5db&dates=9ca3af" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshsoni-cybersec&layout=compact&theme=cobalt&hide_border=true&bg_color=1e3a8a&title_color=60a5fa&text_color=d1d5db)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vanshsoni-cybersec&theme=cobalt&hide_border=true&background=1e3a8a&stroke=3b82f6&ring=60a5fa&fire=3b82f6&currStreakLabel=d1d5db&sideLabels=d1d5db&dates=9ca3af)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshsoni-cybersec&layout=compact&theme=cobalt&hide_border=true&bg_color=1e3a8a&title_color=60a5fa&text_color=d1d5db" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshsoni-cybersec&theme=react-dark&hide_border=true&bg_color=1e3a8a&color=60a5fa&line=3b82f6&point=d1d5db" />
 
 </div>
 
@@ -155,7 +183,11 @@ drwxr-xr-x  5 vansh vansh 4096 Dec  7 2025 .
 └─────────────────────────────────────────────┘
 ```
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/VSploit.png)](https://tryhackme.com/p/VSploit)
+<a href="https://tryhackme.com/p/VSploit" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/VSploit.png" alt="TryHackMe Badge">
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
@@ -199,11 +231,13 @@ drwxr-xr-x  5 vansh vansh 4096 Dec  7 2025 .
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=435&lines=Hack+The+Planet+🌐;Think+Like+An+Attacker+⚔️;Defend+Like+A+Guardian+🛡️)
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=435&lines=Hack+The+Planet+🌐;Think+Like+An+Attacker+⚔️;Defend+Like+A+Guardian+🛡️;Security+Through+Knowledge+💡)
 
 **⚠️ All tools are for educational and authorized testing purposes only**
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700">
 
 </div>
 
