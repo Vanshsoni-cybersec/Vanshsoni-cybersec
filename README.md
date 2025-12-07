@@ -12,6 +12,8 @@
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=120&section=header&text=VANSH%20SONI&fontSize=40&fontColor=d1d5db&animation=fadeIn&fontAlignY=38&desc=Penetration%20Tester%20|%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
   
 ```diff
@@ -35,7 +37,7 @@
 
 ### ⚡ **Tech Stack & Tools** ⚡
 
-<img src="https://skillicons.dev/icons?i=python,bash,js,linux,git,github,vscode,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,docker&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
@@ -69,6 +71,14 @@ vansh@kali:~$ cat profile.txt
 ---
 
 ### ⚔️ `$ cat skills.conf`
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+</p>
 
 ```python
 class CyberSecArsenal:
@@ -116,6 +126,10 @@ drwxr-xr-x  5 vansh vansh 4096 Dec  7 2025 .
 
 #### 🔥 **Featured Projects**
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
+</p>
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[CVE Discord Alerts](https://github.com/Vanshsoni-cybersec/cve-discord-n8n)** | Automated CVE monitoring system - Pulls top 5 vulnerabilities every 2 hours | `n8n` `Discord API` `Threat Intel` |
@@ -157,6 +171,10 @@ drwxr-xr-x  5 vansh vansh 4096 Dec  7 2025 .
 
 ### 🔬 `$ tail -f learning.log`
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce4ec1cf1.gif" width="400">
+</p>
+
 ```bash
 [ACTIVE] PortSwigger Academy Labs - Web Security
 [ACTIVE] Reverse Engineering & Binary Analysis
@@ -195,6 +213,10 @@ drwxr-xr-x  5 vansh vansh 4096 Dec  7 2025 .
 
 ### 💬 `$ echo $MESSAGE`
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
+</p>
+
 ```bash
 > Open to collaboration on cybersecurity projects
 > Looking for internship opportunities in pentesting
@@ -205,6 +227,10 @@ drwxr-xr-x  5 vansh vansh 4096 Dec  7 2025 .
 ---
 
 ### 📡 `$ contact --encrypted`
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+</p>
 
 ```
 ╔════════════════════════════════════════════════╗
